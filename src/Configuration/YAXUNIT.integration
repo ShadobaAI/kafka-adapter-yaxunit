@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supply:LibraryIntegrationSettings xmlns:supply="http://g5.1c.ru/v8/dt/compare/supply/model" libraryName="YAXUNIT">
+  <integrationSettings>
+    <objects include="true"/>
+  </integrationSettings>
+</supply:LibraryIntegrationSettings>
