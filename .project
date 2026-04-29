@@ -15,11 +15,4 @@
 		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
 		<nature>com._1c.g5.v8.dt.core.V8ExtensionNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>src</name>
-			<type>2</type>
-			<locationURI>edt://yaxunit/src</locationURI>
-		</link>
-	</linkedResources>
 </projectDescription>
