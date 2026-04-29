@@ -6,7 +6,7 @@
 
 Служебный EDT-проект с unit-тестами [1С: Адаптер Kafka](https://github.com/ShadobaAI/kafka-adapter) на базе [YAxUnit](https://github.com/bia-technologies/yaxunit).
 
-> Ддвижок добавлен как [библиотека EDT](https://its.1c.ru/db/edtdoc/content/10626/hdoc)
+> Движок добавлен как [библиотека EDT](https://its.1c.ru/db/edtdoc/content/10626/hdoc)
 
 ## Назначение
 
